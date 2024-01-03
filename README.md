@@ -17,7 +17,7 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,cpp,java,mysql)
 
 ## 🗂️ Projects
-...
+- (12/23 - 01/24): Training Center Management in Java Swing
 
 ## 📊 GitHub stats and top langs
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamzoohuy&show_icons=true&theme=transparent)&emsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamzoohuy&layout=compact&theme=transparent)
