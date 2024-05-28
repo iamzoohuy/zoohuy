@@ -17,6 +17,8 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,cpp,java,mysql)
 
 ## 🗂️ Projects
+- (05/2024): ATM simulation in Java Swing
+- (05/2024): ZDEX landing page web core
 - (12/2023 - 01/2024): Training Center Management in Java Swing
 
 ## 📊 GitHub stats and top langs
