@@ -29,6 +29,6 @@ Give a ⭐ if this project helped you!<br><br>
 <a href='https://www.buymeacoffee.com/zoohuyvn' target='_blank'><img style='height: 34px' src='https://i.imgur.com/Y2Ta2iz.png'/></a>
 
 ## 📄 License
-Copyright ©️ 2023 by Zoohuy ❤️
+© 2024 Zoohuy • All rights reserved.
 
 ![ssss](https://komarev.com/ghpvc/?username=zoohuyvn&color=lightgrey)
