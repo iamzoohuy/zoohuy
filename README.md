@@ -1,25 +1,23 @@
 ## 👋 About me
-🔭 I'm just a newbie<br>
-🧑‍💻 I'm a technology enthusiast and currently studying to become a Fullstack programmer<br>
-🎬 I also know graphic design and video editing at a basic level<br>
-✌️ My website: [https://zoohuy.net](https://zoohuy.net)
+- Amateur Graphic Designer and Editor, Developer, Tech Enthusiast<br>
+- My website: [https://zoohuy.net](https://zoohuy.net)
 
 ## 🏢 Work experience
-...
 
 ## 🎓 Education
-- 2023 - now: Vietnam-Korea University of Information and Communication Technology
+- 2023 - now: Vietnam - Korea University of Information and Communication Technology
 
 ## 🛠️ Skills
+### Languages
+![Languages]([https://skillicons.dev/icons?i=vscode,eclipse,figma,ps,ai,ae,pr](https://skillicons.dev/icons?i=html,css,scss,js,py,cpp,java,php,mysql))
+### Concepts
+![Concepts](https://skillicons.dev/icons?i=git,postman)
+### Framework
+![Framework](https://skillicons.dev/icons?i=react)
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,figma,ps,ai,ae,pr)
-### Techs
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,cpp,java,mysql)
-
-## 🗂️ Projects
-- (05/2024): ATM simulation in Java Swing
-- (05/2024): ZDEX landing page web core
-- (12/2023 - 01/2024): Training Center Management in Java Swing
+![Tools](https://skillicons.dev/icons?i=bash,git,github,postman,mongodb)
+### Design
+![Design](https://skillicons.dev/icons?i=ai,figma,ps,ae,pr)
 
 ## 📊 GitHub stats and top langs
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zoohuyvn&show_icons=true&theme=transparent)&emsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoohuyvn&layout=compact&theme=transparent)
@@ -30,5 +28,3 @@ Give a ⭐ if this project helped you!<br><br>
 
 ## 📄 License
 © 2024 Zoohuy • All rights reserved.
-
-![ssss](https://komarev.com/ghpvc/?username=zoohuyvn&color=lightgrey)
