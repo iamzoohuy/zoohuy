@@ -15,7 +15,7 @@
 ### Framework
 ![Framework](https://skillicons.dev/icons?i=react)
 ### Tools
-![Tools](https://skillicons.dev/icons?i=bash,git,github,postman,mongodb)
+![Tools](https://skillicons.dev/icons?i=vscode,eclipse,bash,git,github,postman,mongodb)
 ### Design
 ![Design](https://skillicons.dev/icons?i=ai,figma,ps,ae,pr)
 
