@@ -9,7 +9,7 @@
 
 ## 🛠️ Skills
 ### Languages
-![Languages]([https://skillicons.dev/icons?i=vscode,eclipse,figma,ps,ai,ae,pr](https://skillicons.dev/icons?i=html,css,scss,js,py,cpp,java,php,mysql))
+![Languages](https://skillicons.dev/icons?i=html,css,scss,js,py,cpp,java,php,mysql)
 ### Concepts
 ![Concepts](https://skillicons.dev/icons?i=git,postman)
 ### Framework
